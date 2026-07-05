@@ -1,0 +1,13 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go build output
+/url-shortener
+/bin/
+
+# IDE
+.vscode/
+.idea/
